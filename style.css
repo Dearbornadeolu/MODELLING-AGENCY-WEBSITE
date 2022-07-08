@@ -209,7 +209,7 @@ footer{
         width: 100%;
     }
 }
-@media  screen and (max-width:306px ){
+@media  screen and (max-width:396px ){
     #final{
         display: block;
     }
